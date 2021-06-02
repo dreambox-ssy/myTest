@@ -1,0 +1,5 @@
+rootProject.name = "test"
+include ':app'
+include ':biz_homepage'
+include ':lib_common'
+include ':lib_data'
