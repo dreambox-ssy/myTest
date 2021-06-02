@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="network_is_not_available">网络不可用，请检测网络</string>
+</resources>
