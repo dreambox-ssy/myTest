@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Home page search bar-->
+    <color name="home_page_search_bar_background">#EEEEEE</color>
+    <color name="home_page_search_bar_edit_hint">#5E5E5E</color>
+    <color name="home_page_search_bar_edit_text">#000000</color>
+    <color name="home_page_search_bar_split_line_background">#AEAEAE</color>
+
+    <!--Recommend Application-->
+    <color name="recommend_app_title_text_color">#000000</color>
+    <color name="recommend_app_list_item_name_text_color">#000000</color>
+    <color name="recommend_app_list_item_category_text_color">#5E5E5E</color>
+    <color name="recommend_app_list_split_line_background">#AEAEAE</color>
+
+    <!--Free Application-->
+    <color name="free_app_list_item_index_text_color">#5E5E5E</color>
+    <color name="free_app_list_item_name_text_color">#000000</color>
+    <color name="free_app_list_item_category_text_color">#5E5E5E</color>
+    <color name="free_app_list_item_download_count_text_color">#5E5E5E</color>
+    <color name="free_app_list_split_line_background">#AEAEAE</color>
+
+</resources>

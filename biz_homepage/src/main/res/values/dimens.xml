@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Home page search bar-->
+    <dimen name="home_page_search_bar_icon_height">20dp</dimen>
+    <dimen name="home_page_search_bar_bg_height">40dp</dimen>
+    <dimen name="home_page_search_bar_bg_corner">20dp</dimen>
+    <dimen name="home_page_search_bar_bg_margin_start">10dp</dimen>
+    <dimen name="home_page_search_bar_bg_margin_end">10dp</dimen>
+    <dimen name="home_page_search_bar_bg_margin_top">10dp</dimen>
+    <dimen name="home_page_search_bar_edit_text_size">24sp</dimen>
+    <dimen name="home_page_search_bar_edit_margin_start">10dp</dimen>
+    <dimen name="home_page_search_bar_edit_margin_end">10dp</dimen>
+    <dimen name="home_page_search_bar_split_line_height">1px</dimen>
+    <dimen name="home_page_search_bar_split_line_margin_top">10dp</dimen>
+    
+    <!--Recommend Application-->
+    <dimen name="recommend_app_title_text_size">18sp</dimen>
+    <dimen name="recommend_app_title_text_margin_top">5dp</dimen>
+    <dimen name="recommend_app_list_margin_top_of_title">5dp</dimen>
+    <dimen name="recommend_app_list_height">150dp</dimen>
+    <dimen name="recommend_app_list_item_padding">10dp</dimen>
+    <dimen name="recommend_app_list_item_icon_width">85dp</dimen>
+    <dimen name="recommend_app_list_item_icon_corner">10dp</dimen>
+    <dimen name="recommend_app_list_item_space">10dp</dimen>
+    <dimen name="recommend_app_list_item_name_size">24sp</dimen>
+    <dimen name="recommend_app_list_item_category_size">24sp</dimen>
+    <dimen name="recommend_app_split_line_height">1px</dimen>
+    <dimen name="recommend_app_split_line_margin_top">5dp</dimen>
+
+    <!--Free Application-->
+    <dimen name="free_app_list_margin_top">10dp</dimen>
+    <dimen name="free_app_list_margin_start">10dp</dimen>
+    <dimen name="free_app_list_height">60dp</dimen>
+    <dimen name="free_app_list_item_index_width">40dp</dimen>
+    <dimen name="free_app_list_item_icon_width">65dp</dimen>
+    <dimen name="free_app_list_item_icon_corner">5dp</dimen>
+    <dimen name="free_app_list_item_icon_margin_start_of_index">10dp</dimen>
+    <dimen name="free_app_list_item_desc_margin_start_of_icon">10dp</dimen>
+    <dimen name="free_app_list_item_desc_margin_end_of_parent">10dp</dimen>
+    <dimen name="free_app_list_item_desc_name_margin_top">10dp</dimen>
+    <dimen name="free_app_list_item_desc_category_margin_top_of_name">10dp</dimen>
+    <dimen name="free_app_list_item_desc_rate_margin_top_of_category">10dp</dimen>
+    <dimen name="free_app_list_item_download_count_margin_start_of_star_rating_bar">10dp</dimen>
+    <dimen name="free_app_list_item_index_size">16sp</dimen>
+    <dimen name="free_app_list_item_name_size">18sp</dimen>
+    <dimen name="free_app_list_item_category_size">16sp</dimen>
+    <dimen name="free_app_list_item_download_count_size">16sp</dimen>
+    <dimen name="free_app_list_item_star_width">20dp</dimen>
+    <dimen name="free_app_list_item_footer_margin_top">10dp</dimen>
+</resources>
